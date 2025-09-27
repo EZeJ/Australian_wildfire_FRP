@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EasonJia9598/Australian_wildfire_FRP/blob/main/A1_EasonJia.ipynb)
 
 
-# NASA Satellite Analysis – Australian Wildfires for Insurance Alert (2023)
+# NASA Satellite Analysis – Australian Wildfires for Insurance Alert (2022)
 
 ## Project Overview
 This project analyzes **183,593** NASA VIIRS satellite data points using **statistical modeling and machine learning** to improve **wildfire risk prediction**. By leveraging **Random Forest**, **LightGBM**, and a **Neural Network (MLP)**, we achieved a **20% improvement in prediction accuracy** and identified key **Fire Radiative Power (FRP) predictors**, helping **insurance companies** optimize risk strategies.
